@@ -3,4 +3,6 @@
 
     <string name="proceed">Proceed!</string>
     <string name="welcome_text">Welcome!</string>
+    <string name="welcome_to_cache">Welcome to CACHE!</string>
+    <string name="your_first_name_please">Your First Name please...</string>
 </resources>
