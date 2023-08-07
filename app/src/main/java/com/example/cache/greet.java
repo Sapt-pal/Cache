@@ -6,7 +6,7 @@ public class greet extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.greeting);
+        setContentView(R.layout.signup);
 
         TextView welcomeText = findViewById(R.id.greetMsg);
         String name = getIntent().getStringExtra("username");
