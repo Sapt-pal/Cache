@@ -5,4 +5,10 @@
     <string name="welcome_text">Welcome!</string>
     <string name="welcome_to_cache">Welcome to CACHE!</string>
     <string name="your_first_name_please">Your First Name please...</string>
+    <string name="userName">Your Username</string>
+    <string name="password">Password</string>
+    <string name="greeting_msg">Greetings!</string>
+    <string name="login_btn">Login</string>
+    <string name="confirm_pswd">Confirm password</string>
+    <string name="signUp_Btn">Sign Up</string>
 </resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="userName">Your Username</string>
+    <string name="password">Password</string>
+    <string name="greeting_msg">Greetings!</string>
+    <string name="confirm_pswd">Confirm password</string>
+    <string name="signUp_Btn">Sign Up</string>
+</resources>
