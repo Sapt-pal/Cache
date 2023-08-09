@@ -10,7 +10,9 @@ import androidx.appcompat.app.AppCompatActivity;
 public class greet extends AppCompatActivity {
 
     Button signUpBtn;
-    EditText userName, password, confirmPswd;
+    EditText userName;
+    EditText password;
+    EditText confirmPswd;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,6 +32,6 @@ public class greet extends AppCompatActivity {
     //button onClick method
     public void signUp(View view) {
         String name = userName.getText().toString();
-        Toast.makeText(this, "Signing in " + name + " ...", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this,"Signing in "+name+" ...",Toast.LENGTH_SHORT).show();
     }
 }
