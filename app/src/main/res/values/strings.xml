@@ -11,4 +11,5 @@
     <string name="login_btn">Login</string>
     <string name="confirm_pswd">Confirm password</string>
     <string name="signUp_Btn">Sign Up</string>
+    <string name="confirm_password">Confirm Password</string>
 </resources>
